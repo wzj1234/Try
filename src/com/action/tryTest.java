@@ -7,6 +7,7 @@ public class tryTest {
 		System.out.println("tryTest");
 		System.out.println("回退2");
 		System.out.println("the fist time to update");
+		System.out.println("asdfasdfasdfd");
 	}
 
 }
